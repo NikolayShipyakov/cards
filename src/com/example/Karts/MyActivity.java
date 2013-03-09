@@ -1,4 +1,4 @@
-package com.example.Karts;
+package com.example.karts;
 
 import android.app.Activity;
 import android.os.Bundle;
